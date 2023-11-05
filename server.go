@@ -38,6 +38,7 @@ func (this *Server) start() {
 		if err != nil {
 			fmt.Println("Listener accept err:", err)
 		}
+
 		// do handler
 		go this.Handler(conn)
 	}
