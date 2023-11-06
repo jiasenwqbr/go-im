@@ -1,4 +1,7 @@
+
+![WX20231106-141507.png](img/WX20231106-141507.png)
 # 主要功能 major function
+
 ## 基础服务构建 Basic service construction
 ## 广播上线功能 Broadcast online function
 ## 用户消息广播 User message broadcasting
